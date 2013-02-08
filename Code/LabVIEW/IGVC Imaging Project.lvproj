@@ -20,6 +20,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Camera Loop.vi" Type="VI" URL="../Camera Loop.vi"/>
 		<Item Name="Get Images.vi" Type="VI" URL="../Get Images.vi"/>
+		<Item Name="Perspective Distortion Calibration.vi" Type="VI" URL="../Perspective Distortion Calibration.vi"/>
 		<Item Name="Save Images.vi" Type="VI" URL="../Save Images.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
