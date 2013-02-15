@@ -54,6 +54,4 @@ function [bin_line_img] = detect_white_lines(img, vertical_line_width, horizonta
            end
        end
     end
-
 end
-
