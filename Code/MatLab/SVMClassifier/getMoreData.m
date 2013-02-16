@@ -14,7 +14,7 @@ end
 questans = questdlg('Would you like to examine another picture?','Another File?','Yes','No','Yes');
 
 while strcmp(questans,'Yes')
-    [file,path] = uigetfile(fullfile('C:\Users\quammebd\Dropbox\IGVC Photos','*.png;*.bmp;*.jpg'),'select file');
+    [file,path] = uigetfile(fullfile('C:\Users\Donnie Quamme\Dropbox\IGVC Photos','*.png;*.bmp;*.jpg'),'select file');
     
     img = imread([path,file]);
     imshow(img);
