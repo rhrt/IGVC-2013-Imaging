@@ -23,7 +23,7 @@
 		<Item Name="Apply Perspective.vi" Type="VI" URL="../Apply Perspective.vi"/>
 		<Item Name="Camera Loop.vi" Type="VI" URL="../Camera Loop.vi"/>
 		<Item Name="Get Images.vi" Type="VI" URL="../Get Images.vi"/>
-		<Item Name="Get Lines.vi" Type="VI" URL="../../../../IGVC-2013/Code/Project 1.0/AI/Occupancy Grid/Get Lines.vi"/>
+		<Item Name="Get Lines.vi" Type="VI" URL="../Get Lines.vi"/>
 		<Item Name="Perspective Distortion Loop.vi" Type="VI" URL="../Perspective Distortion Loop.vi"/>
 		<Item Name="Save Images.vi" Type="VI" URL="../Save Images.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
